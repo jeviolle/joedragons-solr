@@ -10,3 +10,4 @@ solr/webapp/web/libs/*.js
 '''
 build = "./gradlew jar"
 #tools = [ "infer", "findsecbugs", "errorprone"]
+tools = [ "findsecbugs", "errorprone"]
