@@ -9,4 +9,4 @@ ignoreFiles = '''
 solr/webapp/web/libs/*.js
 '''
 build = "./gradlew jar"
-tools = [ "infer", "findsecbugs", "errorprone", "quandary", "semgrep" ]
+tools = [ "infer", "findsecbugs", "errorprone", "quandary"]
